@@ -1,0 +1,63 @@
+[
+    {
+        "id": 1,
+        "chefName": "Sadia Afroz",
+        "yearsOfExperience": 10,
+        "numberOfRecipes": 50,
+        "likes": 1000,
+        "bio": "Sadia Afroz is a renowned Bangladeshi chef with over 10 years of experience in the culinary arts. She is known for her creative and delicious recipes, and has authored several popular cookbooks.",
+        "chefPicture": "https://i.ibb.co/27vwMWL/chef1.jpg"       
+    },
+    
+
+    {
+        "id": 2,
+        "chefName": "Rashida Rahman",
+        "yearsOfExperience": 8,
+        "numberOfRecipes": 40,
+        "likes": 800,
+        "bio": "Rashida Rahman is a talented Bangladeshi chef with 8 years of experience. She is particularly skilled in creating traditional Bangladeshi dishes, and has won several awards for her culinary creations.",
+        "chefPicture": "https://i.ibb.co/SR88sQM/chef2.jpg" 
+    },
+    
+    {
+        "id": 3,
+        "chefName": "Farzana Ahmed",
+        "yearsOfExperience": 12,
+        "numberOfRecipes": 60,
+        "likes": 1200,
+        "bio": "Farzana Ahmed is a well-known Bangladeshi chef with over 12 years of experience. She is passionate about using local ingredients to create unique and flavorful dishes, and is often sought out for her expertise in Bangladeshi cuisine.",
+        "chefPicture": "https://i.ibb.co/8P9wW09/chef3.jpg" 
+    },
+  
+    {
+        "id": 4,
+        "chefName": "Sadia Debnath",
+        "yearsOfExperience": 10,
+        "numberOfRecipes": 50,
+        "likes": 1000,
+        "bio": "Sadia Debnath is a renowned Bangladeshi chef with over 10 years of experience in the culinary arts. She is known for her creative and delicious recipes, and has authored several popular cookbooks.",
+        "chefPicture": "https://i.ibb.co/grNL3Zq/chef4.jpg" 
+    },
+
+   
+    {
+        "id": 5,
+        "chefName": "Rashida Rahman",
+        "yearsOfExperience": 8,
+        "numberOfRecipes": 40,
+        "likes": 800,
+        "bio": "Rashida Rahman is a talented Bangladeshi chef with 8 years of experience. She is particularly skilled in creating traditional Bangladeshi dishes, and has won several awards for her culinary creations.",
+        "chefPicture": "https://i.ibb.co/Ws0csCH/chef5.jpg" 
+    },
+  
+    {
+        "id": 6,
+        "chefName": "Farzana Ahmed",
+        "yearsOfExperience": 12,
+        "numberOfRecipes": 60,
+        "likes": 1200,
+        "bio": "Farzana Ahmed is a well-known Bangladeshi chef with over 12 years of experience. She is passionate about using local ingredients to create unique and flavorful dishes, and is often sought out for her expertise in Bangladeshi cuisine.",
+        "chefPicture": "https://i.ibb.co/qmgBgPs/chef6.jpg" 
+    }
+]
